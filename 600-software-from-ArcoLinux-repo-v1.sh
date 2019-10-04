@@ -72,13 +72,13 @@ sudo pacman -S arcolinux-qt5-git --noconfirm --needed
 sudo pacman -S arcolinux-rofi-git --noconfirm --needed
 sudo pacman -S arcolinux-rofi-themes-git --noconfirm --needed
 sudo pacman -S arcolinux-root-git --noconfirm --needed
-sudo pacman -S arcolinux-slim --noconfirm --needed
-sudo pacman -S arcolinux-slimlock-themes-git --noconfirm --needed
+# sudo pacman -S arcolinux-slim --noconfirm --needed
+# sudo pacman -S arcolinux-slimlock-themes-git --noconfirm --needed
 sudo pacman -S arcolinux-system-config-git --noconfirm --needed
 sudo pacman -S arcolinux-termite-themes-git --noconfirm --needed
 #sudo pacman -S arcolinux-tint2-git --noconfirm --needed
 #sudo pacman -S arcolinux-tint2-themes-git --noconfirm --needed
-sudo pacman -S arcolinux-variety-git --noconfirm --needed
+# sudo pacman -S arcolinux-variety-git --noconfirm --needed
 sudo pacman -S arcolinux-wallpapers-git --noconfirm --needed
 #sudo pacman -S arcolinux-wallpapers-lxqt-dual-git --noconfirm --needed
 #sudo pacman -S arcolinux-xfce4-panel-profiles-git --noconfirm --needed
@@ -104,9 +104,9 @@ echo "################################################################"
 echo "Retry if it times out - large files to download"
 
 sudo pacman -S --noconfirm --needed discord
-sudo pacman -S --noconfirm --needed dropbox
+# sudo pacman -S --noconfirm --needed dropbox
 #sudo pacman -S --noconfirm --needed insync
-sudo pacman -S --noconfirm --needed spotify
+# sudo pacman -S --noconfirm --needed spotify
 
 echo "################################################################"
 echo "####     Software from ArcoLinux 3party Repository installed       ####"

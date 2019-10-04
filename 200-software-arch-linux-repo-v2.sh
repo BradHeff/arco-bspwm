@@ -31,7 +31,7 @@ sudo pacman -S --noconfirm --needed variety
 
 echo "Installing category Development"
 
-sudo pacman -S --noconfirm --needed atom
+# sudo pacman -S --noconfirm --needed atom
 sudo pacman -S --noconfirm --needed geany
 sudo pacman -S --noconfirm --needed meld
 #sudo pacman -S --noconfirm --needed
@@ -132,7 +132,7 @@ sudo pacman -S --noconfirm --needed scrot
 sudo pacman -S --noconfirm --needed simple-scan
 sudo pacman -S --noconfirm --needed sysstat
 #sudo pacman -S --noconfirm --needed terminator
-sudo pacman -S --noconfirm --needed termite
+# sudo pacman -S --noconfirm --needed termite
 sudo pacman -S --noconfirm --needed thunar
 sudo pacman -S --noconfirm --needed thunar-archive-plugin
 sudo pacman -S --noconfirm --needed thunar-volman
